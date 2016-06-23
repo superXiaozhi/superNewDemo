@@ -14,7 +14,7 @@ public class AboutActivity extends VehicleActivity {
 	private TextView tv_version;
 	@ViewInject(R.id.tv_xieyi)
 	private TextView tv_xieyi;
-
+//test eclipse
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
